@@ -1,0 +1,160 @@
+body{
+    text-align:center;
+   
+}
+marquee{
+   
+    background-color: aquamarine;
+    height: 25px;
+    border-color: black;
+    border-style: solid;
+    border-width: 3px;
+}
+#contact img{
+    height: 200px;
+    width: 200px; 
+}
+#dolly {
+    width: 400px;
+    height: 400px;
+   border-width: 40px;
+    border-color: purple;
+    border-radius: 30px;
+    border-style: groove;
+}
+#about{
+    background-image: repeating-linear-gradient(to right, pink, blue 10% , green 20% , purple 30%);
+}
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head{
+    background-image: url(images.jpg);
+    
+}
+#campuslife {
+    background-image: url(pattern.jpg);
+}
+#experience{
+    background-image: url(pattern.jpg);
+}
+#achievements h2{
+    background-image: url(pattern.jpg);
+}
+#contactimg{
+    border-radius: 100%;
+    border-width: 10px;
+    border-color: palevioletred;
+    border-style: double;
+    padding: 10px;
+}
+
+.list-group img{
+    width: 400px;
+    height: 400px;
+    border-width: 30px;
+    border-color: greenyellow;
+    border-style: ridge;
+    
+}
+
+
+}
+.list-group h4{
+    font-size: 35px;
+    font-family: fantasy;
+    color: lightcoral;
+    text-decoration: underline;
+}
+.list-group p{
+    font-size: 25px;
+    color: purple;
+ font-family: times;
+    }
+#walk{
+    width: 600px;
+    height: 400px;
+    border-width: 20px;
+    border-style: groove;
+    border-color: green;
+}
+#play{
+    width: 600px;
+    height: 400px;
+    border-width: 20px;
+    border-style: groove;
+    border-color: green;
+}
+.movie_text h5{
+    font-family: impact;
+    font-size: 40px;
+    color: aqua;
+    text-align: center;
+    text-shadow: 2px 2px pink;
+}
+.movie_text p{
+    font-size: 20px;
+    font-family: cursive;
+    color: pink;
+    background-color: black;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: #ff7700;
+}
+
+#about iframe {
+   border-radius: 100%;
+    border-color: red;
+    border-width:20px;
+    border-style:groove;
+
+}
+#para{
+    color: darkblue;
+    background-color: antiquewhite;
+    font-size: 30px;
+    font-family: comic;
+    width: 70%;
+    margin: 8px auto;
+    border-color: red;
+    border-width: 30px;
+    border-style:groove;
+    text-shadow: 1.5px 1.5px green;
+    
+    
+}
+#life{
+    background-image: url(pattern.JPG);
+}
+#goa{
+    height: 370px;
+    width: 480px;
+}
+.campus p{
+    
+    text-align: justify;
+font-style: bold;
+    color: black;
+    text-shadow: 1px 1px black;
+}
+.campus h5{
+    text-align: center;
+    text-decoration: underline;
+    color: rebeccapurple;
+    font-family: impact;
+    font-size: 25px;
+    text-shadow: 2px 2px black;
+}
